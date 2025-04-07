@@ -27,7 +27,7 @@ export default function CategoryFormPage(){
            <NavBar active="Categorias" />
 
             <main className="flex justify-center">
-                <div className="bg-purple-900 min-w-2/3 m-6 p-6 rounded">
+                <div className="bg-purple-950 min-w-2/3 m-6 p-6 rounded">
                     <h2 className="text-lg font-bold">Cadastrar Categoria</h2>
 
                     <form action={formAction} className="space-y-4 mt-4">

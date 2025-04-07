@@ -16,7 +16,7 @@ export default function NavBar(props: NavBarProps) {
 
     return (
         <>
-            <nav className="flex justify-between items-center bg-purple-900 p-6">
+            <nav className="flex justify-between items-center bg-purple-950 p-6">
                 <h2 className="text w-3xl font-bold">Game Rent</h2>
                 <ul className="flex gap-4">
                     {links.map(link =>
